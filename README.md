@@ -1,3 +1,6 @@
+> [!WARNING]
+> This Repository has moved to GitLab and is now read-only
+
 [![Quality Gate Status](https://sonarqube.rawrr.dev/api/project_badges/measure?project=AshTheDergy_Boydancer_AYxyee3NlqXopnxRdO9-&metric=alert_status&token=sqb_05ea6e7173d65379bff1a1bbdc93bae3fefc12f1)](https://sonarqube.rawrr.dev/dashboard?id=AshTheDergy_Boydancer_AYxyee3NlqXopnxRdO9-)
 
 # A Boydancer discord.js bot made by [@AshTheDergy](https://github.com/AshTheDergy)
